@@ -1,0 +1,18 @@
+# commands
+1 git init
+2 git status
+3 git add .{adding all}
+4 git add main.py{specific file}
+5 .gitignore{ignoring one stuff which we dont want {module/}}
+
+# commit
+git commit -m "version1"
+
+ab jahape change karna hai karna uske bad git add . karke modify ho jaega
+
+git remote add origin "link"
+
+git branch -M main
+
+git push -u origin main
+yesab pushkaro
